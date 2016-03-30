@@ -1,0 +1,29 @@
+body {  
+  font-family: "Comic Sans MS";
+  background-color: aqua;
+  width: 800px;
+  margin: 0 auto;
+}
+.gaming1 {
+  color: yellow;
+}
+ .gaming2 {
+  color: red;
+}
+.gaming3
+{
+  color: lightgreen;
+}
+img {
+	width:200px;
+	float:right;
+}
+#pic{
+	width: 250px;
+	float:right;
+}
+ button {
+ 	font-size: 26px;
+ 	color: blue;
+ 	background-color: red;
+ }
