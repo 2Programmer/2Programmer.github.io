@@ -51,3 +51,11 @@
     margin-top: 15px;
     border-radius: 3px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3);
+    
+    body {
+    background-image: url(http://assets.nydailynews.com/polopoly_fs/1.1978207.1413572672!/img/httpImage/image.jpg_gen/derivatives/article_635/system18f-1-web.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
